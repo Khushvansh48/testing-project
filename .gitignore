@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+.env
+backend/uploads/
+*.zip
+frontend/attached_assets/
+.claude/
+# Landing site build artifacts
+landing/node_modules/
+landing/dist/
